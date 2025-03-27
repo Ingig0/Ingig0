@@ -14,9 +14,8 @@ This is my first ever Godot game and as such presented many challenges in learni
 
 
 
-###Loamlings
+### [Loamlings](https://hollowedgenos.itch.io/loamlings)
 
-https://hollowedgenos.itch.io/loamlings 
 ![image](https://github.com/user-attachments/assets/018191b0-98a0-4129-bf4e-f398bcac2a40)
 
 An RTS where you control dirt creatures called loamlings and are tasked with stopping a mudskipper infestation threatening the local village.
@@ -25,9 +24,8 @@ The biggest struggle was making the unit selection and movement to a level that 
 
 
 
-###Airstar
+### [Airstar](https://lavender-indigo.itch.io/airstar)
 
-https://lavender-indigo.itch.io/airstar
 ![image](https://github.com/user-attachments/assets/76483d00-f922-48cb-9ab7-0885bd0f0a01)
 
 A simple SHMUP where your goal is to survive two minutes against a never ending onsluaght of enemies.
