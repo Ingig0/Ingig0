@@ -3,6 +3,7 @@
 ## Games
 
 ### Acchelleration
+
 [Gameplay Video](https://youtu.be/NpzcIgPVUm4)
 First person 3D platformer à la the movement focused gamemodes and mods of the Quake series and Source Engine games. Featuring bunnyhopping, rocket jumping, surfing, and more. 
 
@@ -14,6 +15,7 @@ This is my first ever Godot game and as such presented many challenges in learni
 
 
 ###Loamlings
+
 https://hollowedgenos.itch.io/loamlings 
 ![image](https://github.com/user-attachments/assets/018191b0-98a0-4129-bf4e-f398bcac2a40)
 
@@ -24,6 +26,7 @@ The biggest struggle was making the unit selection and movement to a level that 
 
 
 ###Airstar
+
 https://lavender-indigo.itch.io/airstar
 ![image](https://github.com/user-attachments/assets/76483d00-f922-48cb-9ab7-0885bd0f0a01)
 
